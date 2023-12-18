@@ -1,0 +1,27 @@
+.navbar-text{
+font-size: 30px;
+}
+
+.dropdown{
+    margin-left: 60px;
+}
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(154, 187, 216);
+}
+.card-body{  
+    height: 280px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-img-top {
+    margin-top: 60px;
+    height: 300px;
+    width: 350px;
+}
